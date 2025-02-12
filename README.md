@@ -24,10 +24,6 @@ python3 smsPing.py ##Uygulamayı python üzerinden çalıştırıyoruz
 
     9 -> Çıkış
 
-![resim1](https://i.hizliresim.com/mqf3qaa.png)
-![resim2](https://i.hizliresim.com/dhku8x1.png)
-
-
 
 
    <h2>YASAL UYARI </h2>
