@@ -1,10 +1,9 @@
-[![Hits](https://hits.sh/github.com/knnxw/SmsPing.svg?style=plastic&label=G%C3%96R%C3%9CNT%C3%9CL%C3%9CME)](https://hits.sh/github.com/knnxw/SmsPing/)
 <h2>Kurulum</h2>
 
 
 ```console
-git clone https://github.com/knnxw/SmsPing ##GitHub üzerinden dosyayı alıyoruz
-cd SmsPing ##SmsPing dizinine giriş yapıyoruz
+git clone https://github.com/knnkeys/sms-ping ##GitHub üzerinden dosyayı alıyoruz
+cd sms-ping ##SmsPing dizinine giriş yapıyoruz
 pip3 install -r requirements.txt ##requirements.txt dosyasından gerekli libraryleri kuruyoruz
 python3 smsPing.py ##Uygulamayı python üzerinden çalıştırıyoruz
 ```
